@@ -1,3 +1,4 @@
+from random import randint
 class BoardException(Exception):
     pass
 
